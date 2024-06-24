@@ -1,0 +1,50 @@
+.btn{
+    font-size: 25px;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: rgb(230, 221, 221);
+    color: black;
+}
+.btn:hover{
+    background-color:blanchedalmond;
+    color: aliceblue;
+    border-radius: 7px;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+}
+.btn:link{
+    color: chartreuse;
+}
+.btn:active {
+    color: red;
+}
+.btn:visited {
+    color:rgb(204, 152, 9);
+}
+h1 {
+    background-color: aqua;
+}
+h3 {
+    background-color: chartreuse;
+}
+p {
+    background-color: bisque;
+}
+input:focus{
+    background-color: blanchedalmond;
+}
+button {
+    cursor: pointer;
+}
+table,th,td {
+    border: 1px solid black;
+}
+table {
+    width: 30%;
+    border-collapse: collapse;
+}
+tr {
+    height: 28px;
+}

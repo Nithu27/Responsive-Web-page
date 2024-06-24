@@ -24,10 +24,11 @@ a {
     color:rgb(204, 152, 9);
 }
 h1 {
-    background-color: aqua;
+    background-color: rgb(253,162,23);
 }
 h3 {
-    background-color: chartreuse;
+    background-color: rgb(173,26,58);
+    color: rgb(246,193,189);
 }
 p {
     background-color: bisque;
@@ -47,4 +48,7 @@ table {
 }
 tr {
     height: 28px;
+}
+.textaligncenter,h1,h2,h3 {
+    text-align: center;
 }

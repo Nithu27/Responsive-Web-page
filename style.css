@@ -32,6 +32,7 @@ h3 {
 }
 p {
     background-color: bisque;
+    text-align: justify;
 }
 input:focus{
     background-color: blanchedalmond;

@@ -24,7 +24,7 @@ a {
     color:rgb(204, 152, 9);
 }
 h1 {
-    background-color: rgb(253,162,23);
+    background-color: rgb(225,78,22);
 }
 h3 {
     background-color: rgb(173,26,58);
@@ -51,4 +51,23 @@ tr {
 }
 .textaligncenter,h1,h2,h3 {
     text-align: center;
+}
+
+thead tr:nth-child(1) {
+    background-color: rgb(126, 68, 47);
+}
+tr:nth-child(1) {
+    background-color: rgb(253,162,23);
+}
+tr:nth-child(2) {
+    background-color: rgb(253,162,23);
+}
+tr:nth-child(3) {
+    background-color: rgb(253,162,23);
+}
+tr:nth-child(4) {
+    background-color: rgb(253,162,23);
+}
+tr:hover {
+    background-color: rgb(246,193,189);
 }
